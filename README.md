@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Paul-T01
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning python
